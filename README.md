@@ -1,1 +1,1 @@
-# class34trinitech
+# class34-repo
